@@ -1,2 +1,2 @@
-# senaMora.gith
+# senaMora.github.io
 Hello "my first message"

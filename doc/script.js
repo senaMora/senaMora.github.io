@@ -3,5 +3,5 @@ function add() {
   let n2 = document.getElementById("num2").value;
 
   let result = n1 + n2;
-  getElementById("output").innerHTML = result
+  document.getElementById("output").innerHTML = result
 }
